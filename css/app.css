@@ -1,0 +1,49 @@
+/*********  BODY STYLES  *********/
+
+body{
+	font-family: sans-serif;
+  background-color: #fff;
+	}
+
+article{
+  margin: 0 auto;
+  width: 600px;
+}
+
+/*********  INPUT ELEMENTS  *********/
+
+#results, #alert{
+  display:none;
+ 
+}
+
+#alert{
+  color: orange;
+}
+
+#thanks{
+  color:blue;
+}
+
+li{
+  list-style:none;
+  margin-left:-2.3em;
+}
+
+.choice {
+    color: orange;
+}
+.fizz {
+    color: green;
+}
+.buzz {
+    color: red;
+}
+.fizzbuzz {
+    color: orange;
+}
+
+#userInputTextfield{
+	text-align: right;
+	width: 5em;
+}
